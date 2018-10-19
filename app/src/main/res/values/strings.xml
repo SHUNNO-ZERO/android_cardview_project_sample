@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android_Cardview_Project_Sample</string>
+
+    <string name="option1">school</string>
+    <string name="option2">hospital</string>
+    <string name="option3">airport</string>
+    <string name="option4">resturant</string>
+
+
+</resources>
